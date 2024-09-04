@@ -6,4 +6,4 @@ range:1000
 solid:3
 transportTime:1
 itemCapacity:40
-requirements: [Coppe/100,]
+requirements: [copper/100,lead/100]
