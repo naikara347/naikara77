@@ -7,3 +7,9 @@ solid:3
 transportTime:1
 itemCapacity:40
 requirements: [copper/300,lead/300]
+research: {
+parent:DuctBridge
+requirements: [
+copper/1000,lead/1000
+]
+}
