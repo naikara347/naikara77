@@ -10,10 +10,3 @@ requirements:[
 copper/300
 lead/300
 ]
-research:{
-parent:DuctBridge
-requirements:[
-copper/20000
-lead/20000
-]
-}
