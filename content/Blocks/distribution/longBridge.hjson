@@ -18,7 +18,7 @@
 #]
 #}
 #
-type: ItemBridge
+type:ItemBridge
 name:longBridge
 range:1000
 solid:3
