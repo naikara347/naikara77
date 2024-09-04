@@ -1,17 +1,35 @@
-name:ロングブリッチコンベア
-description:"とにかく長いブリッチコンベア"
-alwaysUnlocked:true
-type:ItemBridge
+#name:ロングブリッチコンベア
+#description:"とにかく長いブリッチコンベア"
+#alwaysUnlocked:true
+#type:ItemBridge
+#range:1000
+#solid:3
+#transportTime:1
+#itemCapacity:40
+#requirements:[
+#copper/300
+#lead/300
+#]
+#research:{
+#parent:DuctBridge
+#requirements:[
+#copper/20000
+#lead/20000
+#]
+#}
+#
+type: ItemBridge
+name:longBridge
 range:1000
 solid:3
 transportTime:1
 itemCapacity:40
-requirements:[
-copper/300
-lead/300
+requirements: [
+copper/10000
+lead/10000
 ]
-research:{
-parent:DuctBridge
+research: {
+parent:BridgeConveyor
 requirements:[
 copper/20000
 lead/20000
