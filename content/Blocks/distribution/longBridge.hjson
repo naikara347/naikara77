@@ -1,7 +1,7 @@
 name:ロングブリッチコンベア
 description:"とにかく長いブリッチコンベア"
 alwaysUnlocked:true
-type:DuctBridge
+type:ItemBridge
 range:1000
 solid:3
 transportTime:1
