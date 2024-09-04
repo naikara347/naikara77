@@ -29,7 +29,7 @@ copper/10000
 lead/10000
 ]
 research: {
-parent:BridgeConveyor
+parent:bridge-conveyor
 requirements:[
 copper/20000
 lead/20000
