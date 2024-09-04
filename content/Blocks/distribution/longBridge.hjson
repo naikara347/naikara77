@@ -18,13 +18,13 @@
 #]
 #}
 #
-type:ItemBridge
-name:longBridge
+type:BridgeConveyor
+name:BridgeConveyor
 range:1000
 solid:3
 transportTime:1
 itemCapacity:40
-requirements: [
+requirements:[
 copper/10000
 lead/10000
 ]
