@@ -1,5 +1,6 @@
-name:"ロングブリッチコンベア"
+name:ロングブリッチコンベア
 description:"とにかく長いブリッチコンベア"
+alwaysUnlocked:true
 type:DuctBridge
 range:1000
 solid:3
@@ -16,4 +17,3 @@ copper/20000
 lead/20000
 ]
 }
-alwaysUnlocked:true
