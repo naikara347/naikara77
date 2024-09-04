@@ -1,7 +1,6 @@
 name:ロングブリッチコンベア
 description:とにかく長いブリッチコンベア
 type:DuctBridge
-size:1
 range:1000
 solid:3
 transportTime:1
