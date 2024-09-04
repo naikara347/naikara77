@@ -1,11 +1,14 @@
-name:ロングブリッチコンベア
-description:とにかく長いブリッチコンベア
+name:"ロングブリッチコンベア"
+description:"とにかく長いブリッチコンベア"
 type:DuctBridge
 range:1000
 solid:3
 transportTime:1
 itemCapacity:40
-requirements:[copper/300 lead/300]
+requirements:[
+copper/300
+lead/300
+]
 research:{
 parent:DuctBridge
 requirements:[
