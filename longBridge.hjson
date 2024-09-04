@@ -6,11 +6,12 @@ range:1000
 solid:3
 transportTime:1
 itemCapacity:40
-requirements: [copper/300,lead/300]
-research: {
+requirements:[copper/300,lead/300]
+research:{
 parent:DuctBridge
-requirements: [
-copper/20000,lead/20000
+requirements:[
+copper/20000
+lead/20000
 ]
 }
-alwaysUnlocked: true
+alwaysUnlocked:true
