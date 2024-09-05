@@ -2,7 +2,7 @@ type:ItemBridge
 name:longBridgeConveyor
 range:1000
 solid:3
-transportTime:1
+transportTime:0
 itemCapacity:40
 requirements:[
 copper/20000
