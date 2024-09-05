@@ -18,7 +18,6 @@
 #]
 #}
 #
-category:distribution
 type:BridgeConveyor
 name:longBridgeConveyor
 range:1000
