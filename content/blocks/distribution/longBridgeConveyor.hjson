@@ -5,8 +5,8 @@ solid:3
 transportTime:1
 itemCapacity:40
 requirements:[
-copper/20000
-lead/20000
+copper/500
+lead/500
 ]
 research:{
 parent:bridge-conveyor
