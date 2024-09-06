@@ -4,7 +4,7 @@ category:turret
 health:2500
 range:1000
 research:{
-parent:Duo
+parent:duo
 requirements:[
 copper/10000
 lead/10000
