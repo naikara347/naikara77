@@ -11,6 +11,5 @@ research:{
 parent:duo
 requirements:[
 copper/10000
-lead/10000
 ]
 }
