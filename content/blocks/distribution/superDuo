@@ -1,2 +1,4 @@
 name:superDuo
 type:turret
+health:6000
+range:500
