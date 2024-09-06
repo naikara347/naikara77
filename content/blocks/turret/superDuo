@@ -3,6 +3,10 @@ type:turret
 category:turret
 health:2500
 range:1000
+solid:3
+requirements:[
+copper/500
+]
 research:{
 parent:duo
 requirements:[
