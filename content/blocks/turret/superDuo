@@ -10,6 +10,7 @@ inaccuracy:0
 minRange:0
 targetGround:true
 playerControllable:true
+displayAmmoMultiplier:true
 requirements:[
 copper/500
 ]
