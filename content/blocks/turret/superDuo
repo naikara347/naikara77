@@ -8,6 +8,7 @@ maxAmmo:60
 ammoPerShot:1
 inaccuracy:0
 minRange:0
+targetGround:true
 requirements:[
 copper/500
 ]
