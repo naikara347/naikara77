@@ -9,6 +9,7 @@ ammoPerShot:1
 inaccuracy:0
 minRange:0
 targetGround:true
+playerControllable:true
 requirements:[
 copper/500
 ]
