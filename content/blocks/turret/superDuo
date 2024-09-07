@@ -12,6 +12,7 @@ targetGround:true
 playerControllable:true
 displayAmmoMultiplier:true
 shootSound:shoot
+recoil:1
 requirements:[
 copper/500
 ]
