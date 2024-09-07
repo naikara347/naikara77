@@ -20,7 +20,7 @@ coolant:5
 coolantMultiplier:water
 AmmoType:{
 copper:{
-BulletType:standardCopper
+BulletType:弾丸の種類
 }
 }
 requirements:[
