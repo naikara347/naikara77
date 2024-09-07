@@ -4,6 +4,7 @@ category:turret
 health:2500
 range:1000
 solid:3
+maxAmmo:60
 requirements:[
 copper/500
 ]
