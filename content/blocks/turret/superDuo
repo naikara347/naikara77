@@ -11,6 +11,7 @@ minRange:0
 targetGround:true
 playerControllable:true
 displayAmmoMultiplier:true
+shootSound:shoot
 requirements:[
 copper/500
 ]
