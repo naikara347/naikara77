@@ -18,9 +18,9 @@ speed:1
 damage:1
 coolant:5
 coolantMultiplier:water
-AmmoType: {
+AmmoType:{
 copper:{
-BulletType: 弾丸の種類
+BulletType:standardCopper
 }
 }
 requirements:[
