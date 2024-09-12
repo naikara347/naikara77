@@ -1,14 +1,14 @@
-package ItemBridgeX;
+package naikara77;
 
-import ItemBridgeX.graphics.*;
+import naikara77.graphics.*;
 import arc.*;
 import mindustry.game.*;
 import mindustry.game.EventType.*;
 import mindustry.mod.*;
 
-public class ItemBridgeX extends Mod{
+public class naikara77 extends Mod{
 
-    public ItemBridgeX(){
+    public naikara77(){
         Events.on(EventType.ClientLoadEvent.class, e -> Renderer.init());
         Events.run(Trigger.draw, Renderer::draw);
     }
