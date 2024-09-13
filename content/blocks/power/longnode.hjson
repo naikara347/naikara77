@@ -1,0 +1,11 @@
+name:ロングノード
+type:PowerNode
+size:1
+laserRange:1000
+maxNodes:10000
+requirements: [
+copper/6000
+lead/6000
+]
+category: power
+alwaysUnlocked:true
