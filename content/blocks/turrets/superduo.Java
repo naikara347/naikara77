@@ -1,20 +1,3 @@
-for(float 7 = 70f);
-float 9 = 90f;
-float 60 = 600f;
-float 12 = 120f;
-float 0.6 = 6f;
-float 0.1 = 1f;
-float 1.5 = 15f;
-float 3.5 = 35f;
-float -1.5 = -15f;
-float 3 = 30f;
-float 0.5 = 5f;
-float 20 = 200f;
-float 110 = 1100f;
-float 15 = 150f;
-float 2 = 20f;
-float 10 = 100f;
-float 0.05 = 0.5f;
 superduo = new ItemTurret("su
 perduo"){{
             requirements(Category.turret, with(Items.copper, 35));
