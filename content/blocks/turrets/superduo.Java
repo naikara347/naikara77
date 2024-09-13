@@ -1,4 +1,4 @@
-duo = new ItemTurret("duo"){{
+superduo = new ItemTurret("superduo"){{
             requirements(Category.turret, with(Items.copper, 35));
             ammo(
                 Items.copper,  new BasicBulletType(2.5f, 9){{
