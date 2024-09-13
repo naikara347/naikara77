@@ -1,3 +1,4 @@
+var f=0.6;
 superduo = new ItemTurret("superduo"){{
             requirements(Category.turret, with(Items.copper, 35));
             ammo(
