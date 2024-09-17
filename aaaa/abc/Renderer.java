@@ -1,4 +1,4 @@
-package ItemBridgeX.graphics;
+package naikara77.abc;
 
 import arc.*;
 import arc.graphics.*;
