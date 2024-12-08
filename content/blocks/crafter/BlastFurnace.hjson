@@ -19,3 +19,8 @@ CopperPowder/5
 }
 outputsLiquid:true
 outputLiquid:MoltenCopper/0.25
+requirements:[
+items:[
+CopperPowder/80
+]
+]
