@@ -8,13 +8,7 @@ radioactivity:0
 charge:0
 research:{
 copper
-/*
-parent:Copper
-requirements:[
-{
-item:Copper Powder amount:1
 }
-]
-*/
-}
+//parent:Copper
+//requirements:[{item:Copper Powder amount:1}]
 alwaysUnlocked:true
