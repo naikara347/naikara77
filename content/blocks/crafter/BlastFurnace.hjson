@@ -17,4 +17,5 @@ CopperPowder/5
 ]
 }
 }
+outputsLiquid:true
 outputLiquid:MoltenCopper/0.25
