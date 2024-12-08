@@ -2,3 +2,16 @@
 //type:material
 //description:"Copper Powder"
 //research:
+
+name:Copper Powder
+type:Item
+localizedName:Copper Powder
+description:"Copper Powder"
+research:{
+parent:coreTech
+requirements:[
+{
+item:Copper Powder amount:1
+}
+]
+}
