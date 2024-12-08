@@ -10,5 +10,8 @@ itemCapacity:10
 liquidCpacity:100
 craftTime:5
 consumes:{
+power:90
+items[
 
+]
 }
