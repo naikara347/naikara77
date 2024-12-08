@@ -7,11 +7,14 @@ explosiveness:0
 radioactivity:0
 charge:0
 research:{
+copper
+/*
 parent:Copper
 requirements:[
 {
 item:Copper Powder amount:1
 }
 ]
+*/
 }
 alwaysUnlocked:true
