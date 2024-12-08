@@ -20,5 +20,10 @@ items:[
 CopperPowder/5
 ]
 }
+outputLiquids:{
+Liquids[
+MoltenCopper/2.5
+]
+}
 }
 
