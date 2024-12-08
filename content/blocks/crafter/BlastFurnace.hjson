@@ -23,6 +23,6 @@ CopperPowder/5
 }
 outputLiquids:{
 Liquids[
-MoltenCopper/2.5
+MoltenCopper/0.25
 ]
 }
