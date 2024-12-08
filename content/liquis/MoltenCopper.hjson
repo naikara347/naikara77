@@ -3,9 +3,6 @@ type:Liquis
 description:"Copper melted in a melting furnace
 Hotter than any other couple"
 flammability:0
-explosiveness:0
-radioactivity:0
-charge:0
 temperature:50 //温度
 heatCapacity:false//熱容量
 viscosity:10 //粘度
