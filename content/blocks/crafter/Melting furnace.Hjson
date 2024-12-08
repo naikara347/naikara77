@@ -6,3 +6,4 @@ description:"Melts metal"
 hasPower:true
 hasItem:true
 itemCapacity:10
+HasLiquids:true
