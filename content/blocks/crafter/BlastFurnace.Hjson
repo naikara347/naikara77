@@ -2,7 +2,11 @@ name:Blast Furnace
 type:genericCrafter
 category:crafting
 size:2
-description:"Melts metal"
+description:"Melts metal
+
+
+
+i'll be back"
 hasPower:true
 hasItem:true
 HasLiquids:true
