@@ -5,6 +5,7 @@
 
 name:Copper Powder
 type:Item
+category:item
 localizedName:Copper Powder
 description:"Copper Powder"
 research:{
