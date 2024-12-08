@@ -3,9 +3,9 @@ type:Liquid
 description:"Copper melted in a melting furnace
 Hotter than any other couple"
 flammability:0
-temperature:50 //温度
+temperature:5000 //温度
 heatCapacity:0 //熱容量
-viscosity:0.5 //粘度
+viscosity:5 //粘度
 coolant:false //冷却材
 //research:
 alwaysUnlocked:true
