@@ -1,8 +1,3 @@
-//name:Copper Powder
-//type:material
-//description:"Copper Powder"
-//research:
-
 name:Copper Powder
 type:Item
 localizedName:Copper Powder
