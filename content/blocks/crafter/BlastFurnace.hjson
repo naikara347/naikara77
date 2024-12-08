@@ -14,11 +14,11 @@ itemCapacity:10
 liquidCpacity:100
 craftTime:5
 consumes:{
-power:90
+power:15
 consumes:{
 items:{
 items:[
-CopperPowder/20
+CopperPowder/5
 ]
 }
 }
