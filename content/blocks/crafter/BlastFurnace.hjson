@@ -21,6 +21,4 @@ CopperPowder/5
 ]
 }
 }
-outputLiquids:{
-MoltenCopper/0.25
-}
+outputLiquids:MoltenCopper/0.25
