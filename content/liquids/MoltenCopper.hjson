@@ -5,7 +5,7 @@ Hotter than any other couple"
 flammability:0
 temperature:50 //温度
 heatCapacity:0 //熱容量
-viscosity:0.01 //粘度
+viscosity:0.1 //粘度
 coolant:false //冷却材
 //research:
 alwaysUnlocked:true
