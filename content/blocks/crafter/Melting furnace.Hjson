@@ -7,4 +7,4 @@ hasPower:true
 hasItem:true
 HasLiquids:true
 itemCapacity:10
-LiquidsCapacity:100
+liquidCpacity:100
