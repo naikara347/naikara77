@@ -8,7 +8,7 @@ description:"Melts metal
 
 i'll be back"
 hasPower:true
-hasItem:true
+hasItems:true
 hasLiquids:true
 itemCapacity:10
 liquidCpacity:100
