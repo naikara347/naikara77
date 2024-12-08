@@ -22,7 +22,7 @@ CopperPowder/5
 }
 }
 outputLiquids:{
-Liquids[
+Liquids:[
 MoltenCopper/0.25
 ]
 }
