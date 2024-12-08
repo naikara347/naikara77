@@ -5,11 +5,14 @@
 
 name:Copper Powder
 type:Item
-category:item
 localizedName:Copper Powder
 description:"Copper Powder"
+flammability:0
+explosiveness:0
+radioactivity:0
+charge:0
 research:{
-parent:coreTech
+parent:Copper
 requirements:[
 {
 item:Copper Powder amount:1
