@@ -1,5 +1,5 @@
 name:Blast Furnace
-type:genericCrafter
+type:GenericCrafter
 category:crafting
 size:2
 description:"Melts metal
