@@ -23,7 +23,7 @@ requirements:[
 CopperPowder/80
 ]
 research:{
-parent:BlastFurnace
+parent:CopperPowder
 requirements:[
 CopperPowder/800
 ]
