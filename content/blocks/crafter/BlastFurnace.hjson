@@ -22,3 +22,9 @@ outputLiquid:MoltenCopper/0.25
 requirements:[
 CopperPowder/80
 ]
+research:{
+parent:BlastFurnace
+requirements:[
+CopperPowder/800
+]
+}
