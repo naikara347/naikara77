@@ -9,6 +9,6 @@ charge:0
 research:{
 copper
 }
-//parent:Copper
+//parent:copper
 //requirements:[{item:Copper Powder amount:1}]
 alwaysUnlocked:true
