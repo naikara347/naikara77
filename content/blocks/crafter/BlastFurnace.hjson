@@ -6,8 +6,8 @@ description:"Melts metal                 i'll be back"
 hasPower:true
 hasItems:true
 hasLiquids:true
-itemCpacity:10
-liquidCpacity:100
+itemCapacity:10
+liquidCaaaaaaaaaaaaapacity:100
 craftTime:5
 consumes:{
 power:15
