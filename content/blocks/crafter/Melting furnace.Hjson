@@ -4,3 +4,4 @@ category:crafting
 size:2
 description:"Melts metal"
 hasPower:true
+hasItem:true
