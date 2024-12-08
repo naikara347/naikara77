@@ -10,7 +10,7 @@ itemCapacity:10
 liquidCapacity:100
 craftTime:5
 consumes:{
-power:15
+power:1.5
 items:{
 items:[
 CopperPowder/5
