@@ -8,3 +8,4 @@ hasItem:true
 HasLiquids:true
 itemCapacity:10
 liquidCpacity:100
+craftTime:5
