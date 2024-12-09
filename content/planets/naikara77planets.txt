@@ -54,7 +54,7 @@ iconColor:000000
   cloudMesh:{
     type:HexSkyMesh
     planet:naikara77planets
-    CopperPowder:1
+    seed:1
     speed:7
     radius:0.15
     divisions:2
