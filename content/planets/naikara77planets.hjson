@@ -1,7 +1,8 @@
 localizedName:boil
 parent:sun
 icon:naikara77planets
-iconColor:000000 #generator: SerpuloPlanetGenerator
+iconColor:000000
+//ようわからん
 generator:{
 berylChance:0.45
 iceChance:0.15
@@ -17,3 +18,5 @@ thresh:0.9
 fscl:30
 fper:0.4
 }
+//デフォルトコア
+defaultCore:Corejanaikara
