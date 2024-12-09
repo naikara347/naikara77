@@ -16,7 +16,7 @@ unitType:alpha
   squareSprite:false
 //建築コスト
   requirements:[
-    Copper Powder/600
+    CopperPowder/600
   ]
 //テックツリーを追加
   research:{
