@@ -8,10 +8,9 @@ canPlaceOn:true
 incinerateNonBuildable:false
 
 itemCapacity:2000
-unitCapModifier:10
+unitCapModifier:20
 unitType:alpha
 #incinerateNonBuildable:false
-
 isFirstTier:true
 
 squareSprite:false
