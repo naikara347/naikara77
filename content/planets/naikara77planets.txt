@@ -28,3 +28,7 @@ iconColor:000000
   updateLighting:false
 //軌道を表示するか？
   drawOrbit:false
+//アクセス可能か
+accessible:true
+//常にアンロック
+alwaysUnlocked:true
