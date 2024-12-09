@@ -42,3 +42,5 @@ iconColor:000000
   clearSectorOnLose:true
 //セクターへの侵入の許可
   allowSectorInvasion:false
+//番号付きの侵入を許可？ #名前をつけたセクターへの侵入を許可？
+  allowLaunchToNumbered:true
