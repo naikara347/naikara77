@@ -11,6 +11,7 @@ itemCapacity:2000
 unitCapModifier:20
 unitType:alpha
 #incinerateNonBuildable:false
+//最初のティアか
 isFirstTier:true
 
 squareSprite:false
