@@ -63,3 +63,16 @@ iconColor:000000
     scl:2
     thresh:0.1
   }
+  mesh:{
+    type:NoiseMesh
+    planet:naikara77planets
+    seed:562697
+    color1:DA70D6
+    color2:d4fea1
+    divisions:5
+    radius:0.9
+    octaves:7
+    persistence:1
+    scl:0.75
+    mag:1.2
+  }
