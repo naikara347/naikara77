@@ -2,7 +2,7 @@ localizedName:"お試し"
 parent:sun
 icon:naikara77planets
 iconColor:000000
-//ようわからん
+//生成？
   generator:{
     berylChance:0.4
     iceChance:0.15
