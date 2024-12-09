@@ -2,11 +2,10 @@ type:CoreBlock
 category:effect
 health:900
 size:3
-
+//置く事ができるか
 canPlaceOn:true
-
 //砂や石炭の搬入を許可
-#incinerateNonBuildable:false
+incinerateNonBuildable:false
 
 itemCapacity:2000
 unitCapModifier:10
