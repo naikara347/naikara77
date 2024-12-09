@@ -23,6 +23,6 @@ iconColor:000000
 //軌道
   orbitRadius:46
 //大気を持つかどうか
-  hasAtmosphere:true
+  hasAtmosphere:false
 //わからない
   updateLighting:false
