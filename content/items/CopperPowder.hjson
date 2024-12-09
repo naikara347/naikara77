@@ -11,6 +11,6 @@ charge:0
     //親
       parent:copper
   }
-//requirements:[{item:Copper Powder amount:1}]
+#requirements:[{item:Copper Powder amount:1}]
 //常にアンロック
   alwaysUnlocked:true
