@@ -2,6 +2,7 @@ localizedName:boil
 parent:sun
 icon:naikara77planets
 iconColor:000000
+
 //ようわからん
 generator:{
 berylChance:0.45
@@ -18,9 +19,15 @@ thresh:0.9
 fscl:30
 fper:0.4
 }
+
 //デフォルトコア
 defaultCore:Corejanaikara
+
 //軌道
 orbitRadius:46
+
 //大気を持つかどうか
 hasAtmosphere:true
+
+//わからない
+updateLighting:false
