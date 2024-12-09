@@ -26,3 +26,5 @@ iconColor:000000
   hasAtmosphere:false
 //わからない
   updateLighting:false
+//恒星を表示するか？
+  drawOrbit:false
