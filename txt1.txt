@@ -1,0 +1,9 @@
+┏//研究
+┃┏research:{
+┃┃┏//親
+┃┃┗parent:CopperPowder
+┃┃┏//研究コスト
+┃┃┃┏requirements:[
+┃┃┃┃┗CopperPowder/800
+┃┃┗┗]
+┗┗}
