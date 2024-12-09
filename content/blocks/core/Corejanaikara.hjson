@@ -17,7 +17,7 @@ isFirstTier:true
 squareSprite:false
 //建築コスト
 requirements:[
-    Seed/600
+    Copper Powder/600
 ]
 //テックツリーを追加
 research:{
@@ -26,7 +26,7 @@ research:{
     //テックツリーの名前
     name:naikara77lanets
     //テックツリーと対応する惑星
-    planet:
+    planet:Serpulo
 }
 常にアンロック
 alwaysUnlocked:true
