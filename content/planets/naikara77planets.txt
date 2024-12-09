@@ -80,4 +80,6 @@ iconColor:000000
 itemWhitelist:[
 CopperPowder
 ]
-itemWhitelist
+liquisWhitelist:[
+MoltenCopper
+]
