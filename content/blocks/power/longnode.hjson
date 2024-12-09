@@ -1,11 +1,15 @@
 name:ロングノード
 type:PowerNode
 size:1
-laserRange:1000
-maxNodes:10000
-requirements: [
-copper/6000
-lead/6000
-]
-category: power
-alwaysUnlocked:true
+//接続可能距離
+  laserRange:1000
+//最大接続数
+  maxNodes:10000
+//建築コスト
+  requirements:[
+    copper/6000
+    lead/6000
+  ]
+#category:power
+//常にアンロック
+  alwaysUnlocked:true
