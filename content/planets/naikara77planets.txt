@@ -50,3 +50,16 @@ iconColor:000000
   allowLaunchSchematics:true
 //他セクターへ同時侵攻の設定
   allowWaveSimulation:true
+//セクターの形とかの設定？
+  cloudMesh:{
+    type:HexSkyMesh
+    planet:naikara77planets
+    CopperPowder:1
+    speed:7
+    radius:0.15
+    divisions:2
+    octaves:0
+    persistence:1
+    scl:2
+    thresh:0.1
+  }
