@@ -9,22 +9,29 @@ hasLiquids:true
 itemCapacity:10
 liquidCapacity:100
 craftTime:5
-consumes:{
-power:1.5
-items:{
-items:[
-CopperPowder/5
-]
-}
-}
-outputsLiquid:true
-outputLiquid:MoltenCopper/0.25
-requirements:[
-CopperPowder/80
-]
-research:{
-parent:CopperPowder
-requirements:[
-CopperPowder/800
-]
-}
+//素材
+ consumes:{
+  power:1.5
+  items:{
+   items:[
+    CopperPowder/5
+   ]
+  }
+ }
+//常時アンロック
+ outputsLiquid:true
+//搬出する液体
+ outputLiquid:MoltenCopper/0.25
+//建築コスト
+ requirements:[
+  CopperPowder/80
+ ]
+//研究
+ research:{
+  //親
+   parent:CopperPowder
+  //研究コスト
+   requirements:[
+    CopperPowder/800
+   ]
+ }
