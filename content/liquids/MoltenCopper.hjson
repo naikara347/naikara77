@@ -2,7 +2,8 @@ name:Molten Copper
 type:Liquid
 description:"Copper melted in a melting furnace
 Hotter than any other couple"
-flammability:0
+//可燃性
+  flammability:0
 //温度
   temperature:1000000
 //熱容量
@@ -11,5 +12,6 @@ flammability:0
   viscosity:0
 //冷却材
   coolant:false
-//research:
-alwaysUnlocked:true
+#requirements:(液体を手に入れたら)
+//常にアンロック
+  alwaysUnlocked:true
