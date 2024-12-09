@@ -29,6 +29,12 @@ iconColor:000000
 //軌道を表示するか？
   drawOrbit:false
 //アクセス可能か
-accessible:true
+  accessible:true
 //常にアンロック
-alwaysUnlocked:true
+  alwaysUnlocked:true
+//セクターの数？
+  sectornaikara:15
+//開始セクター？
+  startSector:3
+//セクターサイズ？
+  sectorSize:2
