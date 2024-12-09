@@ -11,6 +11,7 @@ liquidCapacity:100
 craftTime:5
 <details>
 <summary>材料</summary>
+
 hjson
 consumes:{
 power:1.5
