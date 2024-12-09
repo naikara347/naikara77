@@ -20,3 +20,7 @@ fper:0.4
 }
 //デフォルトコア
 defaultCore:Corejanaikara
+//軌道
+orbitRadius:46
+//大気を持つかどうか
+hasAtmosphere:true
