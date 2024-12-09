@@ -25,7 +25,7 @@ unitType:alpha
     //テックツリーの名前
       name:naikara77lanets
     //テックツリーと対応する惑星
-      planet:Serpulo
+      planet:serpulo
   }
 //常にアンロック
   alwaysUnlocked:true
