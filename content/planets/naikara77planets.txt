@@ -76,3 +76,8 @@ iconColor:000000
     scl:0.75
     mag:1.2
   }
+//アイテムのホワイトリスト
+itemWhitelist:[
+CopperPowder
+]
+itemWhitelist
