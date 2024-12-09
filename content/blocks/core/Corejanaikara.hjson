@@ -13,9 +13,9 @@ unitType:alpha
 #incinerateNonBuildable:false
 //最初のティアか
 isFirstTier:true
-
+//四角いスプライトか #よくわからん
 squareSprite:false
-
+//建築コスト
 requirements:[
     Seed/600
 ]
@@ -24,8 +24,9 @@ research:{
     //一番最初の基準ブロックにする:true
     root:true
     //テックツリーの名前
-    name:@cookplanets
+    name:naikara77lanets
     //テックツリーと対応する惑星
-    planet:cookplanets
+    planet:
 }
+常にアンロック
 alwaysUnlocked:true
