@@ -9,10 +9,6 @@ hasLiquids:true
 itemCapacity:10
 liquidCapacity:100
 craftTime:5
-<details>
-<summary>材料</summary>
-
-hjson
 consumes:{
 power:1.5
 items:{
@@ -21,7 +17,6 @@ CopperPowder/5
 ]
 }
 }
-</details>
 outputsLiquid:true
 outputLiquid:MoltenCopper/0.25
 requirements:[
