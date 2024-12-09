@@ -3,30 +3,29 @@ category:effect
 health:900
 size:3
 //置く事ができるか
-canPlaceOn:true
+  canPlaceOn:true
 //砂や石炭の搬入を許可
-incinerateNonBuildable:false
-
+  incinerateNonBuildable:false
 itemCapacity:2000
 unitCapModifier:20
 unitType:alpha
 #incinerateNonBuildable:false
 //最初のティアか
-isFirstTier:true
+  isFirstTier:true
 //四角いスプライトか #よくわからん
-squareSprite:false
+  squareSprite:false
 //建築コスト
-requirements:[
+  requirements:[
     Copper Powder/600
-]
+  ]
 //テックツリーを追加
-research:{
+  research:{
     //一番最初の基準ブロックにする:true
-    root:true
+      root:true
     //テックツリーの名前
-    name:naikara77lanets
+      name:naikara77lanets
     //テックツリーと対応する惑星
-    planet:Serpulo
-}
-常にアンロック
-alwaysUnlocked:true
+      planet:Serpulo
+  }
+//常にアンロック
+  alwaysUnlocked:true
