@@ -38,3 +38,7 @@ iconColor:000000
   startSector:3
 //セクターサイズ？
   sectorSize:2
+//クリアしたセクターが？
+  clearSectorOnLose:true
+//セクターへの侵入の許可
+  allowSectorInvasion:false
