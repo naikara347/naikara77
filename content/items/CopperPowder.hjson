@@ -6,8 +6,11 @@ flammability:0
 explosiveness:0
 radioactivity:0
 charge:0
-research:{
-parent:copper
-}
+//研究
+  research:{
+    //親
+      parent:copper
+  }
 //requirements:[{item:Copper Powder amount:1}]
-alwaysUnlocked:true
+//常にアンロック
+  alwaysUnlocked:true
