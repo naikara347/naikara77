@@ -1,0 +1,33 @@
+#name: CoreSeeds
+type: CoreBlock
+category: effect
+health: 900
+size: 3
+
+canPlaceOn:true
+
+//砂や石炭の搬入を許可
+#incinerateNonBuildable: false
+
+itemCapacity: 2000
+unitCapModifier: 10
+unitType: alpha
+#incinerateNonBuildable: false
+
+isFirstTier: true
+
+squareSprite: false
+
+requirements: [
+    Seed/600
+]
+//テックツリーを追加
+research: {
+    //一番最初の基準ブロックにする:true
+    root: true
+    //テックツリーの名前
+    name: @cookplanets
+    //テックツリーと対応する惑星
+    planet:cookplanets
+}
+alwaysUnlocked: true
