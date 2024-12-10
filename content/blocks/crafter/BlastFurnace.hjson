@@ -29,7 +29,7 @@ craftTime:5
 //研究
   research:{
     //親
-      parent:CopperPowder
+      parent:Corejanaikara
     //研究コスト
       requirements:[
         CopperPowder/800
