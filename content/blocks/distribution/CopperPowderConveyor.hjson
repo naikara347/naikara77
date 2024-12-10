@@ -9,7 +9,7 @@ size:1
 //高さ
   solid:3
 //輸送タイム
-  transportTime:20
+  transportTime:200
 itemCapacity:2
 //研建築コスト
   requirements:[
