@@ -1,5 +1,5 @@
 name:Copper Powder Conveyor
-type:ItemConveyor
+type:Conveyor
 description:"銅の粉を圧縮整形して作られたコンベア
 性能が悪い"
 //高さ
