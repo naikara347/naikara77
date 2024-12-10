@@ -17,5 +17,3 @@ charge:0
       CopperPowder/ 1
     ]
   }
-//常にアンロック
-  alwaysUnlocked:true
