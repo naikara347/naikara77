@@ -14,7 +14,7 @@ itemCapacity:2
 //研究
   research:{
     //親
-      parent:bridge-conveyor
+      parent:Corejanaikara
     //研究コスト
       requirements:[
         copper/5
