@@ -33,7 +33,7 @@ iconColor:000000
 //常にアンロック
   alwaysUnlocked:true
 //セクターの数？
-  sectornaikara:15
+  sector:15
 //開始セクター
   startSector:1
 //セクターサイズ？
