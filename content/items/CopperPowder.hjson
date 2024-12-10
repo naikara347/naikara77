@@ -11,6 +11,11 @@ charge:0
     //親
       parent:Corejanaikara
   }
-#requirements:[{item:Copper Powder amount:1}]
+//CopperPowderを手に入れたら
+  requirements:{
+    items:[
+      CopperPowder/ 1
+    ]
+  }
 //常にアンロック
   alwaysUnlocked:true
