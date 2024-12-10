@@ -20,7 +20,7 @@ unitType:alpha
   ]
 //テックツリーを追加
   research:{
-    //一番最初の基準ブロックにする:true
+    //一番最初の基準ブロックにするか
       root:true
     //テックツリーの名前
       name:naikara77lanets
