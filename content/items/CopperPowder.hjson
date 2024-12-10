@@ -11,7 +11,7 @@ charge:0
     //親
       parent:Corejanaikara
   }
-//CopperPowderを手に入れたら
+//アイテムを手に入れたら
   requirements:{
     items:[
       CopperPowder/ 1
