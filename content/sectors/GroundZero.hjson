@@ -15,7 +15,7 @@ allowLaunchSchematics:true
 addStartingItems:true
 
 allowLaunchLoadout:true
-
+//入るときの最低限のアイテム？
 baseLaunchCost:[
 CopperPowder/100
 ]
