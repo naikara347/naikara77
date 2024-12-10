@@ -34,8 +34,8 @@ iconColor:000000
   alwaysUnlocked:true
 //セクターの数？
   sectornaikara:15
-//開始セクター？
-  startSector:3
+//開始セクター
+  startSector:1
 //セクターサイズ？
   sectorSize:2
 //クリアしたセクターが？
