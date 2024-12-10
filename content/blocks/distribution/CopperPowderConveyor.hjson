@@ -1,22 +1,19 @@
-type:ItemBridge
-name:longBridgeConveyor
-range:1000
+type:ItemConveyor
+name:Copper Powder Conveyor
 solid:3
-transportTime:1
-itemCapacity:40
+transportTime:15
+itemCapacity:2
 //研建築コスト
-requirements:[
-copper/500
-lead/500
+  requirements:[
+    copper/1
 ]
 //研究
-research:{
-//親
-parent:bridge-conveyor
-//研究コスト
-requirements:[
-copper/20000
-lead/20000
-]
-}
+  research:{
+    //親
+      parent:bridge-conveyor
+    //研究コスト
+      requirements:[
+        copper/5
+      ]
+    }
 category:distribution
