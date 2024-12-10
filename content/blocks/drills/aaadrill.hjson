@@ -15,7 +15,7 @@ drillTime:450
     //親
       parent:Corejanaikara
     //研究コスト
-    requirements:[
-      CopperPowder/10
-    ]
+      requirements:[
+        CopperPowder/10
+      ]
   }
