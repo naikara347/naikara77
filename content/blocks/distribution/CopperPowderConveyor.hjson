@@ -17,7 +17,7 @@ itemCapacity:2
       parent:Corejanaikara
     //研究コスト
       requirements:[
-        copper/5
+        CopperPowder/5
       ]
   }
 category:distribution
