@@ -11,8 +11,11 @@ defaultcore:coreSeeds
 #打ち上げ設定(launch)
 allowLaunchLoadout:true
 allowLaunchSchematics:true
+
 addStartingItems:true
+
 allowLaunchLoadout:true
+
 baseLaunchCost:[
 Seed/100
 ]
