@@ -9,7 +9,7 @@ charge:0
 //研究
   research:{
     //親
-      parent:copper
+      parent:Corejanaikara
   }
 #requirements:[{item:Copper Powder amount:1}]
 //常にアンロック
