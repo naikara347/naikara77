@@ -4,13 +4,18 @@ type:Drill
 size:2
 tier:1
 drillTime:450
-requirements:[
-CopperPowder/30
-]
-category:production
-research:{
-parent:CopperPowder
-requirements:[
-CopperPowder/12
-]
-}
+//研究コスト
+  requirements:[
+    CopperPowder/30
+  ]
+//カテゴリー
+  category:production
+//
+  research:{
+    //
+      parent:CopperPowder
+    //設置コスト
+    requirements:[
+      CopperPowder/12
+    ]
+  }
