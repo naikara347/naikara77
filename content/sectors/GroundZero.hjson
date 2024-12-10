@@ -6,7 +6,7 @@ alwaysUnlocked:true
 
 #設計図フォルダにコアの設計図を入れること。
 #ないと設定ができない
-defaultcore:coreSeeds
+defaultcore:corejanaikara
 
 #打ち上げ設定(launch)
 allowLaunchLoadout:true
@@ -17,5 +17,5 @@ addStartingItems:true
 allowLaunchLoadout:true
 
 baseLaunchCost:[
-Seed/100
+CopperPowder/100
 ]
