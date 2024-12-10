@@ -16,6 +16,6 @@ drillTime:450
       parent:CopperPowder
     //研究コスト
     requirements:[
-      CopperPowder/30
+      CopperPowder/10
     ]
   }
