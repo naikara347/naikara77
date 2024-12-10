@@ -6,7 +6,7 @@ tier:1
 drillTime:450
 //設置コスト
   requirements:[
-    CopperPowder/30
+    CopperPowder/12
   ]
 //カテゴリー
   category:production
@@ -16,6 +16,6 @@ drillTime:450
       parent:CopperPowder
     //研究コスト
     requirements:[
-      CopperPowder/12
+      CopperPowder/30
     ]
   }
