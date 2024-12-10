@@ -5,7 +5,7 @@ size:3
 //置く事ができるか
   canPlaceOn:true
 //砂や石炭の搬入を許可
-  incinerateNonBuildable:false
+  incinerateNonBuildable:true
 itemCapacity:2000
 unitCapModifier:20
 unitType:alpha
@@ -25,7 +25,7 @@ unitType:alpha
     //テックツリーの名前
       name:naikara77lanets
     //テックツリーと対応する惑星
-      planet:serpulo
+      planet:"お試し"
   }
 //常にアンロック
   alwaysUnlocked:true
