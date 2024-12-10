@@ -1,6 +1,7 @@
 name:Copper Powder Conveyor
 type:ArmoredConveyor
 description:"銅の粉を圧縮整形して作られたコンベア 性能が悪い"
+size:1
 //耐久値
   health:25
 //高さ
