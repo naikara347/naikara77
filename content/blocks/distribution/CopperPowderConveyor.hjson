@@ -11,7 +11,8 @@ BuildTime:0.3
 //高さ
   solid:3
 //輸送タイム
-  transportTime:200
+  transportTime:240
+speed:4
 itemCapacity:2
 //研建築コスト
   requirements:[
