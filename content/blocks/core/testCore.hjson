@@ -3,7 +3,7 @@ category:effect
 health:900
 size:3
 //置く事ができるか
-  canPlaceOn:false
+  canPlaceOn:true
 //砂や石炭の搬入を許可
   incinerateNonBuildable:true
 itemCapacity:2000
