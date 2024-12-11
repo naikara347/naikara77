@@ -4,14 +4,20 @@ category:power
 size:1
 buildtime:20
 //接続可能距離
-  laserRange:1000
+  laserRange:100
 //最大接続数
-  maxNodes:10000
+  maxNodes:25
 //建築コスト
   requirements:[
-    copper/6000
-    lead/6000
+    copper/600
+    lead/600
   ]
 //研究
-//常にアンロック
-  alwaysUnlocked:true
+  research:{
+    //親
+      parent:node
+    //研究コスト
+      requirements:[
+        copper/800
+      ]
+  }
