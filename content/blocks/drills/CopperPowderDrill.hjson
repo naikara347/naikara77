@@ -3,7 +3,7 @@ description:"銅の粉を圧縮整形して作られたドリル  性能が悪�
 type:Drill
 size:2
 tier:1
-drillTime:1636
+drillTime:3272
 //設置コスト
   requirements:[
     CopperPowder/12
