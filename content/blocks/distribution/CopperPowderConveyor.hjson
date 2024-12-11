@@ -1,5 +1,6 @@
 name:Copper Powder Conveyor
-type:ArmoredConveyor
+#type:ArmoredConveyor装甲コンベア
+type:Conveyor
 description:"銅の粉を圧縮整形して作られたコンベア 性能が悪い"
 size:1
 //建築時間
