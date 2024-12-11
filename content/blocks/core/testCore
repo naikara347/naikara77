@@ -20,3 +20,13 @@ unitType:alpha
   ]
 //常にアンロック
   alwaysUnlocked:true
+
+hasPower:true
+hasItems:false
+outputsPower:true
+consumesPower:false
+plasmas:4
+lwarmupSpeed:0.01
+itemDuration:135
+itemCapacity:50
+powerProduction:7.0
