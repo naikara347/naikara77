@@ -1,0 +1,22 @@
+type:CoreBlock
+category:effect
+health:900
+size:3
+//置く事ができるか
+  canPlaceOn:false
+//砂や石炭の搬入を許可
+  incinerateNonBuildable:true
+itemCapacity:2000
+unitCapModifier:20
+unitType:alpha
+#incinerateNonBuildable:false
+//最初のティアか
+  isFirstTier:true
+//四角いスプライトか #よくわからん
+  squareSprite:false
+//建築コスト
+  requirements:[
+    CopperPowder/600
+  ]
+//常にアンロック
+  alwaysUnlocked:true
