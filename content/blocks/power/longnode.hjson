@@ -1,6 +1,7 @@
 name:ロングノード
 type:PowerNode
 size:1
+buildtime:20
 //接続可能距離
   laserRange:1000
 //最大接続数
