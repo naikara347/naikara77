@@ -18,6 +18,6 @@ buildtime:20
       parent:node
     //研究コスト
       requirements:[
-        copper/800
+        copper/1200
       ]
   }
