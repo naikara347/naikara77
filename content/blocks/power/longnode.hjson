@@ -1,5 +1,6 @@
 name:ロングノード
 type:PowerNode
+category:power
 size:1
 buildtime:20
 //接続可能距離
@@ -11,6 +12,6 @@ buildtime:20
     copper/6000
     lead/6000
   ]
-#category:power
+//研究
 //常にアンロック
   alwaysUnlocked:true
