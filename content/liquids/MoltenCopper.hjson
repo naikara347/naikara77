@@ -3,7 +3,7 @@ type:Liquid
 description:"Copper melted in a melting furnace
 Hotter than any other couple"
 
-color:c8a475
+color:d99d73
 //可燃性
   flammability:0
 //温度
