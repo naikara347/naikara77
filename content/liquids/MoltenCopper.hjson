@@ -7,7 +7,7 @@ color:d99d73
 //可燃性
   flammability:0
 //温度
-  temperature:1000000
+  temperature:5000000
 //熱容量
   heatCapacity:0
 //粘度
