@@ -24,3 +24,7 @@ craftTime:120
       WhiteRadish:1
     ]
   }
+//液体を搬出するか
+  outputsLiquid:true
+//搬出する液体
+  outputLiquid:
