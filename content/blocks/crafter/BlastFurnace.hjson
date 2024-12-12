@@ -18,7 +18,7 @@ craftTime:5
       ]
     }
   }
-//常時アンロック
+//液体を搬出するか
   outputsLiquid:true
 //搬出する液体
   outputLiquid:MoltenCopper/0.25
