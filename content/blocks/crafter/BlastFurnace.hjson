@@ -21,7 +21,9 @@ craftTime:5
 //液体を搬出するか
   outputsLiquid:true
 //搬出する液体
-  outputLiquid:MoltenCopper/0.25
+  outputLiquids:{
+    MoltenCopper/0.25
+  }
 //建築コスト
   requirements:[
     CopperPowder/80
