@@ -2,6 +2,8 @@ name:Copper Powder
 type:Item
 localizedName:Copper Powder
 description:"Copper Powder"
+
+color:c8a475
 flammability:0
 explosiveness:0
 radioactivity:0
