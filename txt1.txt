@@ -28,3 +28,16 @@ craftTime:120
   outputsLiquid:true
 //搬出する液体
   outputLiquid:YasaiJuice/30
+//建築コスト
+requirements:[
+Seed/1
+]
+//研究
+  research:{
+    //親
+      parent:CopperPowderDrill
+    //研究コスト
+      requirements:[
+        Seed/1
+      ]
+  }
