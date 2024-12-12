@@ -8,5 +8,6 @@ size:2
 hasPower:true
 hasItems:true
 hasLiquids:true
-
+itemcapacity:10
+liquidcapacity:60
 craftTime:2
