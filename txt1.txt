@@ -21,9 +21,6 @@ craftTime:120
       Corn:4
       Potato:3
       Onion:2
+      WhiteRadish:1
     ]
-
-
-
-
   }
