@@ -16,7 +16,7 @@ craftTime:120
 //素材
   consumes:{
     power:9
-    item:[
+    items:[
       Carrot:5
       Corn:4
       Potato:3
