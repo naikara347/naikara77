@@ -12,4 +12,4 @@ hasItems:true
 hasLiquids:true
 itemcapacity:10
 liquidcapacity:60
-craftTime:2
+craftTime:120
