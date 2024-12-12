@@ -19,7 +19,8 @@ craftTime:120
     item:[
       Carrot:5
       Corn:4
-
+      Potato:3
+      Onion:2
     ]
 
 
