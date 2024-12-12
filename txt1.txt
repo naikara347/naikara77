@@ -7,3 +7,6 @@ Price of it is just 200 yen."
 size:2
 hasPower:true
 hasItems:true
+hasLiquids:true
+
+craftTime:2
