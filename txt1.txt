@@ -35,9 +35,11 @@ craftTime:120
 //研究
   research:{
     //親
-      parent:CopperPowderDrill
+      parent:Greenhouse
     //研究コスト
       requirements:[
         seed/1
       ]
   }
+//常にアンロック
+  alwaysunlocked:true
