@@ -1,2 +1,4 @@
 content/blocks/crafting/juicer.hjson
 
+name:野菜ジューサー
+description:
