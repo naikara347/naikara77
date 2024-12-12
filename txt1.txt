@@ -5,3 +5,5 @@ description:"Produces mellow and creamy pale blue juice from any vegetables.
 Price of it is just 200 yen."
 
 size:2
+hasPower:true
+hasItems:true
