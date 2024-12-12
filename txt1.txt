@@ -27,4 +27,4 @@ craftTime:120
 //液体を搬出するか
   outputsLiquid:true
 //搬出する液体
-  outputLiquid:
+  outputLiquid:YasaiJuice/30
