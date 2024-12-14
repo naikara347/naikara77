@@ -7,7 +7,7 @@ hasItems:true
 hasLiquids:true
 itemCapacity:10
 liquidCapacity:100
-craftTime:450
+craftTime:390
 //素材
   consumes:{
     items:{
