@@ -16,6 +16,6 @@ charge:0
 //アイテムを手に入れたら
   requirements:{
     items:[
-      CopperPowder/ 1
+      CopperPowder/1
     ]
   }
