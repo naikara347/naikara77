@@ -1,17 +1,15 @@
 name:Blast Furnace
 type:GenericCrafter
 category:crafting
-size:2
 description:"Melts metal                 i'll be back"
-hasPower:true
+size:4
 hasItems:true
 hasLiquids:true
 itemCapacity:10
 liquidCapacity:100
-craftTime:5
+craftTime:450
 //素材
   consumes:{
-    power:1.5
     items:{
       items:[
         CopperPowder/5
@@ -21,7 +19,7 @@ craftTime:5
 //液体を搬出するか
   outputsLiquid:true
 //搬出する液体
-  outputLiquid:MoltenCopper/0.25
+  outputLiquid:MoltenCopper/()
 //建築コスト
   requirements:[
     CopperPowder/80
