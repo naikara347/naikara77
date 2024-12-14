@@ -1,7 +1,9 @@
 name:Blast Furnace
 type:GenericCrafter
 category:crafting
-description:"Melts metal                 i'll be back"
+description:"Melts metal
+
+i'll be back(完成品として)"
 size:4
 hasItems:true
 hasLiquids:true
@@ -16,9 +18,9 @@ craftTime:390
       ]
     }
   }
-//液体を搬出するか
+//アイテムを搬出するか
   outputsItem:true
-//搬出する液体
+//搬出するアイテム
   outputItem:Copper/4
 //建築コスト
   requirements:[
