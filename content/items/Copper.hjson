@@ -1,0 +1,21 @@
+name:Copper
+type:Item
+localizedName:Copper
+description:"(思いついたら書く(多分忘れる))"
+
+color:d99d73
+flammability:0
+explosiveness:0
+radioactivity:0
+charge:0
+//研究
+  research:{
+    //親
+      parent:CopperPowder
+  }
+//アイテムを手に入れたら
+  requirements:{
+    items:[
+      Copper/1
+    ]
+  }
