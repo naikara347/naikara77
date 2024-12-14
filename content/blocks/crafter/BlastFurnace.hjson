@@ -7,7 +7,7 @@ i'll be back(完成品として)"
 size:4
 hasItems:true
 hasLiquids:true
-itemCapacity:10
+itemCapacity:50
 liquidCapacity:100
 craftTime:390
 //素材
