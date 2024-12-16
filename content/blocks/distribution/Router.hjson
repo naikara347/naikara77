@@ -1,5 +1,5 @@
 name:Router
-type:router
+type:ItemRouter
 size:1
 health:40
 speed:3
