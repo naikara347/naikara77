@@ -3,7 +3,7 @@ type:ItemRouter
 size:1
 health:40
 speed:3
-itemCapacity:2
+itemCapacity:1
 //研建築コスト
   requirements:[
     Copper/2
