@@ -1,6 +1,7 @@
 name:Router
 type:ItemRouter
 size:1
+solid:3
 health:40
 speed:3
 itemCapacity:1
