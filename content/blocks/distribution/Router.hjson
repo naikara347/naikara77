@@ -19,7 +19,7 @@ itemCapacity:1
     //研究コスト
       requirements:[
         Copper/100
-        Lead:100
+        Lead/100
       ]
   }
 category:distribution
