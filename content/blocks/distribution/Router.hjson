@@ -1,4 +1,22 @@
 name:Router
 type:Router
+size:1
 health:40
 speed:3
+itemCapacity:2
+//研建築コスト
+  requirements:[
+    Copper/2
+    Lead/2
+  ]
+//研究
+  research:{
+    //親
+      parent:Conveyor
+    //研究コスト
+      requirements:[
+        Copper/100
+        Lead:100
+      ]
+  }
+category:distribution
