@@ -7,7 +7,7 @@ size:1
 //最大接続数
   maxNodes:25
 //建築速度
-  buildtime:480
+  BuildTime:480
 //建築コスト
   requirements:[
     copper/600
