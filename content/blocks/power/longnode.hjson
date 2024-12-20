@@ -7,6 +7,8 @@ buildtime:20
   laserRange:100
 //最大接続数
   maxNodes:25
+//建築速度
+  buildtime:480
 //建築コスト
   requirements:[
     copper/600
