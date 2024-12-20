@@ -20,8 +20,8 @@ size:1
     //研究コスト
       requirements:[
         items:{
-          copper:1200
-          lead:1200
+          copper:/1200
+          lead/1200
         }
       ]
   }
