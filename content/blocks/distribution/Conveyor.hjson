@@ -11,7 +11,7 @@ size:1
 //高さ
   solid:3
 //スピード
-  speed:0.08
+  speed:0.03
 itemCapacity:2
 //研建築コスト
   requirements:[
