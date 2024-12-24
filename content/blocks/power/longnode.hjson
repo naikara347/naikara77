@@ -18,10 +18,10 @@ size:1
     //親
       parent:node
     //研究コスト
-      requirements:[
+      requirements:{
         items:[
           copper/1200
           lead/1200
         ]
-      ]
+      }
   }
