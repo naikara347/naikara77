@@ -14,12 +14,12 @@ size:1
     lead/600
   ]
 //研究
-  research:[
+  research:{
     //親
       parent:node
     //研究コスト
-      requirements:{
+      requirements:[
         copper/1200
         lead/1200
-      }
-  ]
+      ]
+  }
