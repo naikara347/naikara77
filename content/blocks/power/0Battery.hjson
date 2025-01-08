@@ -1,0 +1,18 @@
+name:0バッテリー
+type:Battery
+
+conductivePower:true
+consumes: {
+  powerBuffered:0
+}
+
+requirements: [
+	copper/1
+]
+category: power
+research: {
+	parent:battery
+	requirements: [
+		copper/1
+	]
+}
