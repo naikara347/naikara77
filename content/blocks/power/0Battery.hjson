@@ -3,7 +3,7 @@ type:Battery
 
 conductivePower:true
 consumes: {
-  powerBuffered:0.001
+  powerBuffered:0.1
 }
 
 requirements: [
