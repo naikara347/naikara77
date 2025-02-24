@@ -4,6 +4,7 @@ range:1000
 solid:3
 transportTime:1
 itemCapacity:40
+haspower:false
 //研建築コスト
   requirements:[
     copper/500
