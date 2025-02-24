@@ -16,7 +16,7 @@ size:1
 //研究
   research:{
     //親
-      parent:PowerNode
+      parent:powernode
     //研究コスト
       requirements:[
         copper/1200
